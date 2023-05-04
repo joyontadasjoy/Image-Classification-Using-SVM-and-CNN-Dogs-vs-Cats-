@@ -11,7 +11,9 @@
 <p><img src="https://github.com/joyontadasjoy/Cat-Dog/raw/main/cnn_result.png" alt="CNN result" width="600">
 </p>
 <h2>Results</h2>
-<p>The CNN model achieved an accuracy of 88% on the test set of images. This indicates that the model is able to distinguish between images of cats and dogs with a high degree of accuracy.</p>
+<p>After training and testing my CNN model on a dataset of cat and dog images, I searched for random cat and dog pictures on Google to evaluate its accuracy. The model was able to classify these images with 88% accuracy. However, it's worth noting that the accuracy of the model may vary depending on the quality and diversity of the training data and the complexity of the images being classified. Nonetheless, these results demonstrate that the model is capable of distinguishing between images of cats and dogs with a high degree of accuracy.</p>
+<p><img src="https://github.com/joyontadasjoy/Cat-Dog/raw/main/cnn_result.png" alt="CNN result" width="600">
+
 
 </body>
 </html>
